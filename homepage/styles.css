@@ -1,0 +1,66 @@
+/* HOME */
+    .bg {
+        /* image used */
+        background-image: url("dyker park.jpeg");
+
+        /* full height */
+        height: 100vh;
+
+        /* center and scale of image */
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    #home {
+        /* center h1 headline */
+        text-align: center;
+
+        /* make h1 white */
+        color: black;
+
+        /* make shadow */
+        text-shadow: 2px 2px 4px gray;
+    }
+
+    #dyker {
+        /* center h1 headline */
+        text-align: center;
+
+        /* make h1 white */
+        color: black;
+    }
+
+/* PICTURES */
+    .pbg {
+        /* background color */
+        background-image: url("https://www.colorhexa.com/fff6e6.png");
+
+        /* full height */
+        height: 100vh;
+
+        /* center and scale of image */
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+/* ESSAY */
+    .ebg {
+        /* background color */
+        background-image: url("https://www.colorhexa.com/fff6e6.png");
+
+        /* full height */
+        height: 100vh;
+
+        /* center and scale of image */
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+/* Location */
+    .lbg {
+        background-image: url("https://www.google.com/maps/place/Dyker+Playground/@40.611695,-74.0129463,16.26z/data=!4m6!3m5!1s0x89c245a4af6229e3:0x184c5bd276eb5962!8m2!3d40.6129421!4d-74.0126561!16s%2Fg%2F11h1n3yrnd");
+        height: 60vh
+    }
